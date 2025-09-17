@@ -199,9 +199,9 @@ section{
 }
 
 img{
-   display: block;
-   margin: 0.75em auto;
-   float: none;
+   display: inline;
+   margin: 0.75em 0.75em 0.75em 0;
+   float: left;
 }
 
 /* ---------- SMALL SCREEN STYLES ---------- */
